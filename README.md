@@ -10,7 +10,8 @@
    * Computer vision
 
  📫 How to reach me:
-    Email: shima.azizimajd98@gmail.com
-    Linkdin: www.linkedin.com/in/shima-azizi-b45854240/
+ 
+   * Email: shima.azizimajd98@gmail.com
+   * Linkdin: www.linkedin.com/in/shima-azizi-b45854240/
 
 
