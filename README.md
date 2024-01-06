@@ -10,7 +10,7 @@
  📫 How to reach me: shima.azizimajd98@gmail.com
 
 ### 💡 Skills
-
+- Python
 - Machine Learning
 - Deep Learning
 - Computer Vision
