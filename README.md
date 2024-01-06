@@ -1,6 +1,6 @@
 ### Shima Azizi Majd
 
- 🔭 I’m currently working on on exciting projects in computer vision.
+ 🔭 I’m currently working on exciting projects in computer vision.
 
  💡 **Skills**
  
