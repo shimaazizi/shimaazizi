@@ -6,9 +6,10 @@
 
 
  🔭 I’m currently working on exciting projects in computer vision.
+ 
  📫 How to reach me: shima.azizimajd98@gmail.com
 
-### 🖥 Skills
+### 💡 Skills
 
 - Machine Learning
 - Deep Learning
