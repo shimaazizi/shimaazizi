@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( www.linkedin.com/in/shima-azizi-b45854240/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shima.azizimajd98@gmail.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/shimaazizi)
+[![Github](https://img.shields.io/github/followers/shimaazizi?label=Follow&style=social)](https://github.com/shimaazizi)
 
 
 
