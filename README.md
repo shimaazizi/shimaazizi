@@ -23,6 +23,6 @@
 
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="shimaazizi" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="shimaazizi" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimaazizi&show_icons=true&locale=en&layout=compact" alt="shimaazizi" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shimaazizi&" alt="shimaazizi" />
 </div>
